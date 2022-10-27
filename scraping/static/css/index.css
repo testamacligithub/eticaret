@@ -1,0 +1,96 @@
+body {
+  font-family: "SF Pro Display", "Roboto", sans-serif;
+  background-color: #f2f4f6 !important;
+}
+
+.container {
+  margin-left: 10% !important;
+  margin-right: 15% !important;
+}
+
+.sorting {
+  text-decoration: none !important;
+  color: #000000 !important;
+}
+
+.attr {
+  font-size: 14px;
+}
+
+.product-point {
+  margin-bottom: 2%;
+}
+
+.active {
+  text-decoration: underline !important;
+  font-weight: 500 !important;
+}
+
+.sorting:hover {
+  color: #6f6f6f !important;
+  text-decoration: underline !important;
+}
+
+.sort-wrapper {
+  margin-left: 10% !important;
+  margin-right: 10% !important;
+}
+
+.query-card {
+  height: 50vh;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+
+.filter-area {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding-bottom: 5% !important;
+  margin-bottom: 7% !important;
+}
+
+.filter-title {
+  padding-left: 5%;
+  padding-top: 4%;
+  padding-bottom: 3%;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.form-check {
+  font-size: 13px;
+  padding-left: 2.2em !important;
+}
+
+.price-filter {
+  width: 70% !important;
+  margin-left: 5% !important;
+  margin-bottom: 4% !important;
+}
+
+.product-photo {
+  width: 250px !important;
+  height: 350px !important;
+}
+
+.query-model {
+  text-decoration: none !important;
+}
+
+.query-price {
+  margin-top: 5%;
+  font-size: 20px;
+}
+
+.query-products {
+  margin-left: 5%;
+}
+
+.query-title {
+  margin-top: 3% !important;
+}
+
+.commerce-logo {
+  width: 10%;
+  height: auto;
+}
